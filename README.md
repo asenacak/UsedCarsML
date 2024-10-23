@@ -55,7 +55,7 @@ After preprocessing, five regression models are trained and evaluated using **RM
 
 ## Model Tuning
 
-- **GridSearchCV**: Used for hyperparameter tuning of the Random Forest, XGBoost, and Decision Tree models.
+- **GridSearchCV**: Used for hyperparameter tuning of the XGBoost, and Decision Tree models.
 - **Keras Tuner (Hyperband)**: Applied for optimizing the Deep Neural Network model's parameters.
 
 ## Conclusion
