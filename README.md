@@ -1,4 +1,13 @@
 # Used Cars Price Prediction
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ADD8E6?style=for-the-badge&logo=XGBoost&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 
 This project involves predicting the prices of used cars using various machine learning models. The dataset used for this analysis comes from the [US Used Cars dataset (3 million)](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset), containing detailed information about used cars in the United States.
 
@@ -69,6 +78,7 @@ Among the five models tested, **Random Forest** outperformed the others, achievi
 ## Dependencies
 
 * Python 3
+* Jupyter Notebook
 * pandas
 * scikit-learn
 * XGBoost
